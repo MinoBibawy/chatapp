@@ -1,4 +1,3 @@
 # chatapp
-Link: chatappmino.netlify.app
-username: Test User
-password: 123123
+USERNAME: Test User
+PASSWORD: 123123
